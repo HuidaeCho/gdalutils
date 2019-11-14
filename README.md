@@ -1,6 +1,6 @@
 # gdalutils
 
-This repository contains useful GDAL utility scripts written in Python 3.
+This repository contains useful GDAL utility modules written in Python 3.
 
 ## License
 

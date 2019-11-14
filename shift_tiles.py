@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 ################################################################################
-# Name:    gdalutils: A GDAL utilities module
-# Purpose: This module provides useful GDAL scripts.
+# Name:    shift_tiles.py
+# Purpose: This module provides useful functions that can shift and snap
+#          small raster tiles to a bigger reference raster.
 # Author:  Huidae Cho
 # Since:   November 14, 2019
 #
